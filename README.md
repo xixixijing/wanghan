@@ -3,4 +3,5 @@
 - [x] 新增 Todo 列表功能
 - [x] 修复 LaTex 公式渲染问题
 - [x] 新增 LaTex 公式编号功能# wanghan
+- [x] wancheng renwu 
 
